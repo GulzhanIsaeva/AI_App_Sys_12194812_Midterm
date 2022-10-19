@@ -20,6 +20,7 @@ maintain the highest level of ethical principles during the exam period.
 ## Getting Started with Google Colab:
 
 ![image](https://user-images.githubusercontent.com/90166739/196714468-7b9fac9f-53ad-49d3-96c7-6e761ed6ff23.png)
+https://github.com/GulzhanIsaeva/AI_Midterm_12194812/blob/998f624d526a3d6bf8542bbf69334acc8e9b743c/Week2_lab.ipynb
 
 This was the 1st lab we had from AI Application System Course and we learned how to:
 1. Use Google Colab
@@ -32,6 +33,9 @@ This was the 1st lab we had from AI Application System Course and we learned how
 ## Tenserflow
    
 ![image](https://user-images.githubusercontent.com/90166739/196716267-a7d92c86-fcaf-4746-baea-0408be708921.png)
+Lab1_1: https://github.com/GulzhanIsaeva/AI_Midterm_12194812/blob/998f624d526a3d6bf8542bbf69334acc8e9b743c/Week5_lab(1_1).ipynb
+Lab1_2: https://github.com/GulzhanIsaeva/AI_Midterm_12194812/blob/998f624d526a3d6bf8542bbf69334acc8e9b743c/Week5_lab(1_2).ipynb
+Lab1_3: https://github.com/GulzhanIsaeva/AI_Midterm_12194812/blob/998f624d526a3d6bf8542bbf69334acc8e9b743c/Week5_lab(1_3).ipynb
 
 This lab was introduction to Tenserflow and we learned:
 1. What is Tensorflow
@@ -48,6 +52,8 @@ This lab was introduction to Tenserflow and we learned:
 ## Linear Regression
 
 ![image](https://user-images.githubusercontent.com/90166739/196718069-e598d193-fca9-496e-a754-bcc7557cd5d5.png)
+Lab1: https://github.com/GulzhanIsaeva/AI_Midterm_12194812/blob/998f624d526a3d6bf8542bbf69334acc8e9b743c/Week6_lab(1).ipynb
+Lab2: https://github.com/GulzhanIsaeva/AI_Midterm_12194812/blob/998f624d526a3d6bf8542bbf69334acc8e9b743c/Week6_lab(2).ipynb
 
 In the 6th Week Lab's we learned about:
 1. Linear Regression using TensorFlow
