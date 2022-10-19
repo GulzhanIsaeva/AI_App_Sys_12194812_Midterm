@@ -1,1 +1,77 @@
-# AI_App_Sys_12194812_Midterm
+
+## University Honor Code
+
+By signing this pledge, I promise to adhere to exam requirements and
+
+maintain the highest level of ethical principles during the exam period.
+
+## Midterm Assignment
+
+```
+1. Student Name: Gulzhan Isaeva
+
+2. Student ID: 12194812
+
+3. Course: AI Application System
+```
+
+# Short Explanation of each LAB
+
+## Getting Started with Google Colab:
+
+![image](https://user-images.githubusercontent.com/90166739/196714468-7b9fac9f-53ad-49d3-96c7-6e761ed6ff23.png)
+
+This was the 1st lab we had from AI Application System Course and we learned how to:
+1. Use Google Colab
+2. Upload the data to Google Colab
+3. Import Kaggle’s dataset
+4. Basic File Operations like 
+   "!pip insatall <package_name>" for installing any package
+
+
+## Tenserflow
+   
+![image](https://user-images.githubusercontent.com/90166739/196716267-a7d92c86-fcaf-4746-baea-0408be708921.png)
+
+This lab was introduction to Tenserflow and we learned:
+1. What is Tensorflow
+2. Computational graph
+3. Variables, Constants and Placeholders in TensorFlow
+4. Tensorboard visualization
+5. tf.summary.scalar command
+6. tf.summary.histogram command
+
+
+
+
+
+## Linear Regression
+
+![image](https://user-images.githubusercontent.com/90166739/196718069-e598d193-fca9-496e-a754-bcc7557cd5d5.png)
+
+In the 6th Week Lab's we learned about:
+1. Linear Regression using TensorFlow
+2. Visualization of Linear Regression parameters using TensorFlow
+3. Digit Classification | Neural network to classify MNIST dataset using TensorFlow
+
+
+## Convolutional Neural Networks
+
+![image](https://user-images.githubusercontent.com/90166739/196719000-31d08379-293c-44fc-9cfd-9472b56aef68.png)
+
+7th Week Lab Contents was as follows:
+1. Convolutional Neural Networks
+2. The CIFAR-10 Dataset
+3. Characteristics and building blocks for convolutional layers
+4. Combining feature maps into a convolutional layer
+5. Combining convolutional and fully connected layers into a networ
+6. kEffects of sparse connections and weight sharing
+7. Image classification with a convolutional network
+
+
+
+
+
+
+
+
