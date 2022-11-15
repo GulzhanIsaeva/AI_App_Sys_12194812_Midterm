@@ -1,18 +1,11 @@
 
-## University Honor Code
 
-By signing this pledge, I promise to adhere to exam requirements and
-
-maintain the highest level of ethical principles during the exam period.
-
-## Midterm Assignment
 
 ```
-1. Student Name: Gulzhan Isaeva
+1. Name: Gulzhan Isaeva
 
-2. Student ID: 12194812
+2. Course: AI Application System
 
-3. Course: AI Application System
 ```
 
 # Short Explanation of each LAB
